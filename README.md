@@ -81,5 +81,5 @@ To view the dashboard and run the analysis, follow these steps:
 
 For any queries or further information, feel free to reach out to me:
 
-**Niraj Kumar**  
-Niraj919953@gmail.com
+**Rahul Kumar**  
+rahul910267@gmail.com
